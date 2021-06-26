@@ -3,10 +3,10 @@
 ---
 
 - ### Assignment 1 
-** Hands-on with Databases **
+**Hands-on with Databases**
 
 - ### Assignment 2 
-** Hands-on with Apache Spark**
+**Hands-on with Apache Spark**
 
 - ### Assignment 3
 **Locality Sensitive Hashing using Spark**
