@@ -16,4 +16,4 @@ Implement LSH in Spark without using any inbuilt functions/methods. Detect dupli
 - ### Assignment 4 
 **Data Streaming, Creating V-Optimal Histograms**
 
-Crawl tweets regarding COVID19 and Covid Vaccine using Tweepy with Apache Storm. Implement Jagdish et. al's algorithm and Guha's algorith to create V-Optimal histograms. 
+Crawl tweets regarding COVID19 and Covid Vaccine using Tweepy with Kafka. Implement Jagdish et. al's algorithm and Guha's algorith to create V-Optimal histograms. 
