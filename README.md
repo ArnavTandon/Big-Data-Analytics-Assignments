@@ -11,7 +11,7 @@
 - ### Assignment 3
 **Locality Sensitive Hashing using Spark**
 
-Implement LSH in Spark without using any inbuilt functions/methods. Detect duplicates using LSH Spark implementation n data from MongoDB. Report the precision and recall.
+Implement LSH in Spark without using any inbuilt functions/methods. Detect duplicates using LSH Spark implementation and data from MongoDB. Report the precision and recall.
 
 - ### Assignment 4 
 **Data Streaming, Creating V-Optimal Histograms**
